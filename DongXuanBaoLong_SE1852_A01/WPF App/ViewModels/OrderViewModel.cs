@@ -15,13 +15,15 @@ namespace DongXuanBaoLongWPF.ViewModels
         private readonly IOrderViewService orderViewService;
         private readonly IProductService productService;
         private readonly IOrderCreateService orderCreateService;
+        private readonly ICustomerService customerService;
 
         public ObservableCollection<OrderDetailDTO> Orders { get; set; } = new();
+        public ObservableCollection<Customer> Customers { get; set; } = new();
         public ObservableCollection<Product> Products { get; set; } = new();
-
+        public string CustomerSearchText { get; set; }
         public ObservableCollection<OrderDetailItemDTO> SelectedOrderItems =>
             new(SelectedOrder?.Items ?? new List<OrderDetailItemDTO>());
-
+        private Customer? selectedCustomer;
         private OrderDetailDTO selectedOrder;
         public OrderDetailDTO SelectedOrder
         {
@@ -34,6 +36,19 @@ namespace DongXuanBaoLongWPF.ViewModels
                     OnPropertyChanged(nameof(SelectedOrder));
                     OnPropertyChanged(nameof(SelectedOrderItems));
                 }
+            }
+        }
+        public Customer? SelectedCustomer
+        {
+            get => selectedCustomer;
+            set
+            {
+                selectedCustomer = value;
+                if (value != null)
+                {
+                    SelectedCustomerID = value.CustomerID;
+                }
+                OnPropertyChanged(nameof(SelectedCustomer));
             }
         }
 
@@ -58,12 +73,14 @@ namespace DongXuanBaoLongWPF.ViewModels
                 new ProductRepository());
 
             productService = new ProductService(new ProductRepository());
+            customerService = new CustomerService(new CustomerRepository());
             orderCreateService = new OrderCreateService(
                 new OrderRepository(),
                 new OrderDetailRepository());
 
             LoadOrders();
             LoadAllProducts();
+            LoadAllCustomers();
         }
 
         private void LoadOrders()
@@ -90,6 +107,21 @@ namespace DongXuanBaoLongWPF.ViewModels
             Products.Clear();
             foreach (var p in matched)
                 Products.Add(p);
+        }
+
+        public void LoadAllCustomers()
+        {
+            Customers.Clear();
+            foreach (var c in customerService.GetAllCustomers())
+                Customers.Add(c);
+        }
+
+        public void SearchCustomers()
+        {
+            var matched = customerService.SearchCustomersByName(CustomerSearchText ?? "");
+            Customers.Clear();
+            foreach (var c in matched)
+                Customers.Add(c);
         }
 
         // --- ADD ORDER FUNCTION ---

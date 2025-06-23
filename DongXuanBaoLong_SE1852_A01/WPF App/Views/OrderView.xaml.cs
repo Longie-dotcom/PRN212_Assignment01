@@ -33,5 +33,15 @@ namespace DongXuanBaoLongWPF.Views
         {
             ViewModel.SearchProducts();
         }
+
+        private void SearchCustomer_Click(object sender, RoutedEventArgs e)
+        {
+            ViewModel.SearchCustomers();
+        }
+
+        private void AddOrder_Click(object sender, RoutedEventArgs e)
+        {
+            ViewModel.AddOrder();
+        }
     }
 }
