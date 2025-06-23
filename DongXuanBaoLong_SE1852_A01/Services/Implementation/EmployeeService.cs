@@ -6,7 +6,7 @@ namespace Services.Implementation
 {
     public class EmployeeService : IEmployeeService
     {
-        private IEmployeeRepository employeeRepository;
+        private readonly IEmployeeRepository employeeRepository;
 
         public EmployeeService(IEmployeeRepository employeeRepository)
         {

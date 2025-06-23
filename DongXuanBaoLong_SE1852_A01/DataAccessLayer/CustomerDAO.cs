@@ -94,7 +94,7 @@ namespace DataAccessLayer
 
             // Update the old customer
             customer.ContactName = newCustomer.ContactName ?? customer.ContactName;
-            customer.ContactTitle = newCustomer.ContactName ?? customer.ContactName;
+            customer.ContactTitle = newCustomer.ContactTitle ?? customer.ContactTitle;
             customer.Address = newCustomer.Address ?? customer.Address;
             customer.Phone = newCustomer.Phone ?? customer.Phone;
             customer.CompanyName = newCustomer.CompanyName ?? customer.CompanyName;

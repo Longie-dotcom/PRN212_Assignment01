@@ -6,7 +6,7 @@ namespace Services.Implementation
 {
     public class CustomerService : ICustomerService
     {
-        private ICustomerRepository customerRepository;
+        private readonly ICustomerRepository customerRepository;
 
         public CustomerService(ICustomerRepository customerRepository)
         {

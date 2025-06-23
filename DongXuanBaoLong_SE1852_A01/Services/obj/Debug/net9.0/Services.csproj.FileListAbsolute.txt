@@ -19,3 +19,5 @@ C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Services\obj
 C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Services\obj\Debug\net9.0\refint\Services.dll
 C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Services\obj\Debug\net9.0\Services.pdb
 C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Services\bin\Debug\net9.0\DTOs.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Services\bin\Debug\net9.0\DTOs.pdb

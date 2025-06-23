@@ -4,10 +4,9 @@ using Services.Implementation;
 using Repositories.Implementation;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
-using System.Linq;
-using WPF_App.Models;
+using DongXuanBaoLongWPF.Models;
 
-namespace WPF_App.ViewModels
+namespace DongXuanBaoLongWPF.ViewModels
 {
     public class CustomerViewModel : INotifyPropertyChanged
     {

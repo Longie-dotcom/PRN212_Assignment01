@@ -1,5 +1,4 @@
 ﻿using BussinessObject;
-
 namespace Services.Interface
 {
     public interface IEmployeeService

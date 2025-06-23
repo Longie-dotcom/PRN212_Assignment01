@@ -3,9 +3,8 @@ using Repositories.Implementation;
 using Services.Implementation;
 using Services.Interface;
 using System.ComponentModel;
-using System.Windows;
 
-namespace WPF_App.ViewModels
+namespace DongXuanBaoLongWPF.ViewModels
 {
     public class LoginViewModel : INotifyPropertyChanged
     {

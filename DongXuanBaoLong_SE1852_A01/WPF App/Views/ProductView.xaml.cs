@@ -1,8 +1,8 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using WPF_App.ViewModels;
+using DongXuanBaoLongWPF.ViewModels;
 
-namespace WPF_App.Views
+namespace DongXuanBaoLongWPF.Views
 {
     public partial class ProductView : UserControl
     {

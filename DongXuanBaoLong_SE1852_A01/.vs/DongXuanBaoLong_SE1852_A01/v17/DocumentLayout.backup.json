@@ -3,72 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\orderview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\orderview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\employeedashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\employeedashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\employeedashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\employeedashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\implementation\\orderviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\implementation\\orderviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\implementation\\ordercreateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\implementation\\ordercreateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\models\\productformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\models\\productformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\interface\\iordercreateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\interface\\iordercreateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\models\\customerformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\models\\customerformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\interface\\iorderviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\interface\\iorderviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerprofileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\customerprofileview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\customerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\productview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\reportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\reportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\customerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\customerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\employeedashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\employeedashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,106 +111,96 @@
       "RelativeMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\ordercustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\ordercustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\implementation\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\implementation\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\employeedashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\employeedashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\customerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\customerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\reportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\reportview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\ordercustomerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\ordercustomerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\customerorderhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\viewmodels\\customerorderhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\WPF App.csproj|solutionrelative:wpf app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\dataaccesslayer\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\viewmodels\\customerprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\viewmodels\\customerprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\implementation\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\implementation\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\implementation\\statisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\implementation\\statisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\services\\interface\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}|Services\\Services.csproj|solutionrelative:services\\interface\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}|DTOs\\DTOs.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\dtos\\orderstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}|DTOs\\DTOs.csproj|solutionrelative:dtos\\orderstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}|DTOs\\DTOs.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\dtos\\orderdetailitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}|DTOs\\DTOs.csproj|solutionrelative:dtos\\orderdetailitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}|DTOs\\DTOs.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}|DTOs\\DTOs.csproj|solutionrelative:dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\models\\productformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\models\\productformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\models\\customerformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\models\\customerformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\customerprofileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\customerprofileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\dataaccesslayer\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -189,32 +211,66 @@
       "RelativeMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\dataaccesslayer\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F271ED0-99A6-4159-90EA-671EE4BF287D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\bussinessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57264B68-19B5-4FA4-8207-E1154BA38109}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C56757-24AC-4DC4-A75D-E5464D70FCBF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36DD98E6-5C1D-4E0A-892C-671596859CB5}|Helper\\Helper.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\helper\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -223,6 +279,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Test2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|c:\\users\\pc\\documents\\visual studio 2022\\dongxuanbaolong_se1852_a01\\wpf app\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CD6FF16-F183-43F6-9D2B-147256B546FB}|WPF App\\DongXuanBaoLongWPF.csproj|solutionrelative:wpf app\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -232,7 +304,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -244,7 +316,456 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "WPF App\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "WPF App\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwG8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:20:27.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderCreateService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\OrderCreateService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\OrderCreateService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\OrderCreateService.cs",
+              "RelativeToolTip": "Services\\Implementation\\OrderCreateService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:07:38.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderViewService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\OrderViewService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\OrderViewService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\OrderViewService.cs",
+              "RelativeToolTip": "Services\\Implementation\\OrderViewService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:54:02.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderView.xaml",
+              "RelativeDocumentMoniker": "WPF App\\Views\\OrderView.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderView.xaml",
+              "RelativeToolTip": "WPF App\\Views\\OrderView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T05:39:00.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDashBoard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\EmployeeDashBoard.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\Views\\EmployeeDashBoard.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\EmployeeDashBoard.xaml.cs",
+              "RelativeToolTip": "WPF App\\Views\\EmployeeDashBoard.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:39:48.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\Views\\OrderView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderView.xaml.cs",
+              "RelativeToolTip": "WPF App\\Views\\OrderView.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:53:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\Views\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\Login.xaml.cs",
+              "RelativeToolTip": "WPF App\\Views\\Login.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwDoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:05:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderCreateService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IOrderCreateService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IOrderCreateService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IOrderCreateService.cs",
+              "RelativeToolTip": "Services\\Interface\\IOrderCreateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:05:14.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderViewService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IOrderViewService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IOrderViewService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IOrderViewService.cs",
+              "RelativeToolTip": "Services\\Interface\\IOrderViewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:12:48.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\OrderDetail.cs",
+              "RelativeToolTip": "BussinessObject\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:10:35.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Product.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Product.cs",
+              "RelativeToolTip": "BussinessObject\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:29:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerView.xaml.cs",
+              "RelativeToolTip": "WPF App\\Views\\CustomerView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:51:15.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ProductView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\Views\\ProductView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ProductView.xaml.cs",
+              "RelativeToolTip": "WPF App\\Views\\ProductView.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:39:11.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\Implementation\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:00:38.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerProfileView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerProfileView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerProfileView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerProfileView.xaml.cs",
+              "RelativeToolTip": "WPF App\\Views\\CustomerProfileView.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:49:48.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IProductService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IProductService.cs",
+              "RelativeToolTip": "Services\\Interface\\IProductService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:43:24.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Order.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Order.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Order.cs",
+              "RelativeToolTip": "BussinessObject\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:16:23.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerView.xaml",
+              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerView.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerView.xaml",
+              "RelativeToolTip": "WPF App\\Views\\CustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T05:38:10.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StatisticsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeDocumentMoniker": "WPF App\\ViewModels\\StatisticsViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeToolTip": "WPF App\\ViewModels\\StatisticsViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:15:08.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ReportView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\Views\\ReportView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ReportView.xaml.cs",
+              "RelativeToolTip": "WPF App\\Views\\ReportView.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:39:39.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ReportView.xaml",
+              "RelativeDocumentMoniker": "WPF App\\Views\\ReportView.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ReportView.xaml",
+              "RelativeToolTip": "WPF App\\Views\\ReportView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T05:39:27.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerDashBoard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerDashBoard.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerDashBoard.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerDashBoard.xaml.cs",
+              "RelativeToolTip": "WPF App\\Views\\CustomerDashBoard.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:39:20.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:50:13.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerDashBoard.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerDashBoard.xaml",
+              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerDashBoard.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerDashBoard.xaml",
+              "RelativeToolTip": "WPF App\\Views\\CustomerDashBoard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T04:39:17.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeDashBoard.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\EmployeeDashBoard.xaml",
+              "RelativeDocumentMoniker": "WPF App\\Views\\EmployeeDashBoard.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\EmployeeDashBoard.xaml",
+              "RelativeToolTip": "WPF App\\Views\\EmployeeDashBoard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T05:24:48.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\EmployeeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EmployeeDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\EmployeeDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\EmployeeDAO.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:46:30.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderCustomerView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderCustomerView.xaml",
+              "RelativeDocumentMoniker": "WPF App\\Views\\OrderCustomerView.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderCustomerView.xaml",
+              "RelativeToolTip": "WPF App\\Views\\OrderCustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T15:01:25.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerOrderHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\CustomerOrderHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "WPF App\\ViewModels\\CustomerOrderHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\CustomerOrderHistoryViewModel.cs",
+              "RelativeToolTip": "WPF App\\ViewModels\\CustomerOrderHistoryViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:25:33.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Employee.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Employee.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Employee.cs",
+              "RelativeToolTip": "BussinessObject\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:25:49.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:04:29.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderCustomerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderCustomerView.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\Views\\OrderCustomerView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderCustomerView.xaml.cs",
+              "RelativeToolTip": "WPF App\\Views\\OrderCustomerView.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:01:57.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WPF App\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "WPF App\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA7wDkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:55:38.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "WPF App\\ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "WPF App\\ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:41:11.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "WPF App\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "WPF App\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:53:01.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\CustomerProfileViewModel.cs",
+              "RelativeDocumentMoniker": "WPF App\\ViewModels\\CustomerProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\CustomerProfileViewModel.cs",
+              "RelativeToolTip": "WPF App\\ViewModels\\CustomerProfileViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:52:22.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Customer.cs",
               "RelativeDocumentMoniker": "BussinessObject\\Customer.cs",
@@ -252,172 +773,193 @@
               "RelativeToolTip": "BussinessObject\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:07:40.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\CustomerViewModel.cs",
-              "RelativeDocumentMoniker": "WPF App\\ViewModels\\CustomerViewModel.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\CustomerViewModel.cs",
-              "RelativeToolTip": "WPF App\\ViewModels\\CustomerViewModel.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAwwGQAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:41:11.221Z",
+              "WhenOpened": "2025-06-22T12:07:40.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ProductView.xaml.cs",
-              "RelativeDocumentMoniker": "WPF App\\Views\\ProductView.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ProductView.xaml.cs",
-              "RelativeToolTip": "WPF App\\Views\\ProductView.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA9wCIAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 36,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\CustomerService.cs",
+              "RelativeToolTip": "Services\\Implementation\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:39:11.678Z",
+              "WhenOpened": "2025-06-22T19:35:00.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeDashBoard.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\EmployeeDashBoard.xaml.cs",
-              "RelativeDocumentMoniker": "WPF App\\Views\\EmployeeDashBoard.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\EmployeeDashBoard.xaml.cs",
-              "RelativeToolTip": "WPF App\\Views\\EmployeeDashBoard.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T04:39:48.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerView.xaml.cs",
-              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerView.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerView.xaml.cs",
-              "RelativeToolTip": "WPF App\\Views\\CustomerView.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwCUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:51:15.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "WPF App\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "WPF App\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:55:38.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "WPF App\\ViewModels\\ProductViewModel.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\ViewModels\\ProductViewModel.cs",
-              "RelativeToolTip": "WPF App\\ViewModels\\ProductViewModel.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAgwIYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:53:01.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Product.cs",
-              "RelativeDocumentMoniker": "BussinessObject\\Product.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Product.cs",
-              "RelativeToolTip": "BussinessObject\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:29:21.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomerFormModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Models\\CustomerFormModel.cs",
-              "RelativeDocumentMoniker": "WPF App\\Models\\CustomerFormModel.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Models\\CustomerFormModel.cs",
-              "RelativeToolTip": "WPF App\\Models\\CustomerFormModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:00:03.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductView.xaml",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ProductView.xaml",
-              "RelativeDocumentMoniker": "WPF App\\Views\\ProductView.xaml",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ProductView.xaml",
-              "RelativeToolTip": "WPF App\\Views\\ProductView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:38:49.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductFormModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Models\\ProductFormModel.cs",
-              "RelativeDocumentMoniker": "WPF App\\Models\\ProductFormModel.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Models\\ProductFormModel.cs",
-              "RelativeToolTip": "WPF App\\Models\\ProductFormModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:49:58.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Category.cs",
-              "RelativeDocumentMoniker": "BussinessObject\\Category.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Category.cs",
-              "RelativeToolTip": "BussinessObject\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:18:54.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 37,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\Implementation\\ProductService.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\ProductService.cs",
               "RelativeToolTip": "Services\\Implementation\\ProductService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:47:08.744Z"
+              "WhenOpened": "2025-06-23T06:47:08.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IProductService.cs",
-              "RelativeDocumentMoniker": "Services\\Interface\\IProductService.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IProductService.cs",
-              "RelativeToolTip": "Services\\Interface\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 38,
+              "Title": "StatisticService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\StatisticService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\StatisticService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\StatisticService.cs",
+              "RelativeToolTip": "Services\\Implementation\\StatisticService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:43:24.023Z"
+              "WhenOpened": "2025-06-23T13:50:41.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 39,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\Interface\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:19:06.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\Interface\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:31:19.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IStatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IStatisticsService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IStatisticsService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IStatisticsService.cs",
+              "RelativeToolTip": "Services\\Interface\\IStatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:50:19.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderStatisticsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DTOs\\OrderStatisticsDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderStatisticsDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DTOs\\OrderStatisticsDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderStatisticsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:47:40.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderDetailItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DTOs\\OrderDetailItemDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDetailItemDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DTOs\\OrderDetailItemDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderDetailItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:42:14.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DTOs\\OrderDetailDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDetailDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DTOs\\OrderDetailDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:42:05.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Models\\ProductFormModel.cs",
+              "RelativeDocumentMoniker": "WPF App\\Models\\ProductFormModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Models\\ProductFormModel.cs",
+              "RelativeToolTip": "WPF App\\Models\\ProductFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:49:58.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CustomerFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Models\\CustomerFormModel.cs",
+              "RelativeDocumentMoniker": "WPF App\\Models\\CustomerFormModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Models\\CustomerFormModel.cs",
+              "RelativeToolTip": "WPF App\\Models\\CustomerFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:00:03.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomerProfileView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerProfileView.xaml",
+              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerProfileView.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerProfileView.xaml",
+              "RelativeToolTip": "WPF App\\Views\\CustomerProfileView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T14:45:24.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF App\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPF App\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:50:51.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\OrderDetailRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA4wCsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:12:49.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interface\\IProductRepository.cs",
@@ -429,243 +971,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 50,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\OrderDetailDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\OrderDetailDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\OrderDetailDAO.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:20:36.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBYAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:34:41.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ProductView.xaml",
+              "RelativeDocumentMoniker": "WPF App\\Views\\ProductView.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ProductView.xaml",
+              "RelativeToolTip": "WPF App\\Views\\ProductView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T05:38:49.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\OrderDAO.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\OrderDAO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:39:28.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
               "Title": "ProductDAO.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\ProductDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\ProductDAO.cs",
               "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAowHgAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T14:05:30.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CustomerDAO.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\CustomerDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\CustomerDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAkwG0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:04:29.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmployeeDAO.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\EmployeeDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\EmployeeDAO.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\EmployeeDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\EmployeeDAO.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAowKgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:46:30.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "Services\\Interface\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\IEmployeeService.cs",
-              "RelativeToolTip": "Services\\Interface\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:31:19.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "Services\\Interface\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Interface\\ICustomerService.cs",
-              "RelativeToolTip": "Services\\Interface\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:19:06.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementation\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementation\\ProductRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwCsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:04:14.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EmployeeDashBoard.xaml",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\EmployeeDashBoard.xaml",
-              "RelativeDocumentMoniker": "WPF App\\Views\\EmployeeDashBoard.xaml",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\EmployeeDashBoard.xaml",
-              "RelativeToolTip": "WPF App\\Views\\EmployeeDashBoard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:24:48.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "OrderView.xaml",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderView.xaml",
-              "RelativeDocumentMoniker": "WPF App\\Views\\OrderView.xaml",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\OrderView.xaml",
-              "RelativeToolTip": "WPF App\\Views\\OrderView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:39:00.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CustomerDashBoard.xaml",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerDashBoard.xaml",
-              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerDashBoard.xaml",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerDashBoard.xaml",
-              "RelativeToolTip": "WPF App\\Views\\CustomerDashBoard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T04:39:17.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementation\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\CustomerService.cs",
-              "RelativeToolTip": "Services\\Implementation\\CustomerService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwC4AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:35:00.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CustomerView.xaml",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerView.xaml",
-              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerView.xaml",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerView.xaml",
-              "RelativeToolTip": "WPF App\\Views\\CustomerView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:38:10.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CustomerDashBoard.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerDashBoard.xaml.cs",
-              "RelativeDocumentMoniker": "WPF App\\Views\\CustomerDashBoard.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\CustomerDashBoard.xaml.cs",
-              "RelativeToolTip": "WPF App\\Views\\CustomerDashBoard.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T04:39:20.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementation\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Implementation\\EmployeeService.cs",
-              "RelativeToolTip": "Services\\Implementation\\EmployeeService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T04:00:38.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementation\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\CustomerRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementation\\CustomerRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA5wDEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:01:51.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interface\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\ICustomerRepository.cs",
-              "RelativeToolTip": "Repositories\\Interface\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:58:34.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "WPF App\\Views\\Login.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\Login.xaml.cs",
-              "RelativeToolTip": "WPF App\\Views\\Login.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T04:05:58.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ItemContainerGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs",
-              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs [Read Only]",
-              "ViewState": "AgIAAHgFAAAAAAAAAAArwIkFAAACAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:12:48.081Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ReportView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ReportView.xaml.cs",
-              "RelativeDocumentMoniker": "WPF App\\Views\\ReportView.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ReportView.xaml.cs",
-              "RelativeToolTip": "WPF App\\Views\\ReportView.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:39:39.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ReportView.xaml",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ReportView.xaml",
-              "RelativeDocumentMoniker": "WPF App\\Views\\ReportView.xaml",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\ReportView.xaml",
-              "RelativeToolTip": "WPF App\\Views\\ReportView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T05:39:27.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WPF App\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WPF App\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:50:51.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 70,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\Views\\Login.xaml",
               "RelativeDocumentMoniker": "WPF App\\Views\\Login.xaml",
@@ -676,102 +1041,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Employee.cs",
-              "RelativeDocumentMoniker": "BussinessObject\\Employee.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Employee.cs",
-              "RelativeToolTip": "BussinessObject\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:25:49.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interface\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IEmployeeRepository.cs",
-              "RelativeToolTip": "Repositories\\Interface\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:48:34.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "XamlReader.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
-              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs [Read Only]",
-              "ViewState": "AgIAAJgBAAAAAAAAAAAMwJ4BAAAkAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:03:23.828Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementation\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\EmployeeRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementation\\EmployeeRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:10:36.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 71,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\App.xaml",
               "RelativeDocumentMoniker": "WPF App\\App.xaml",
               "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\App.xaml",
               "RelativeToolTip": "WPF App\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-23T04:03:35.533Z"
+              "WhenOpened": "2025-06-23T04:03:35.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 72,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "WPF App\\AssemblyInfo.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\AssemblyInfo.cs",
               "RelativeToolTip": "WPF App\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T04:03:19.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WPF App\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\MainWindow.xaml",
-              "RelativeToolTip": "WPF App\\MainWindow.xaml",
+              "DocumentIndex": 73,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPF App\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\LoginWindow.xaml",
+              "RelativeToolTip": "WPF App\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-23T03:50:52.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Test2\\Program.cs",
-              "RelativeDocumentMoniker": "Test2\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Test2\\Program.cs",
-              "RelativeToolTip": "Test2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "DocumentIndex": 56,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:47:11.378Z"
+              "WhenOpened": "2025-06-22T18:58:34.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 57,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:46:11.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interface\\ICategoryRepository.cs",
@@ -783,55 +1112,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "OrderDAO.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\OrderDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\OrderDAO.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\OrderDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\OrderDAO.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 59,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:39:28.776Z"
+              "WhenOpened": "2025-06-22T18:48:34.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "OrderDetailDAO.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\OrderDetailDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\OrderDetailDAO.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\OrderDetailDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\OrderDetailDAO.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAqwG4AAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:20:36.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "CategoryDAO.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\CategoryDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\CategoryDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:34:41.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "OrderDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\OrderDetailRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementation\\OrderDetailRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\OrderDetailRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementation\\OrderDetailRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T19:12:49.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 60,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementation\\OrderRepository.cs",
@@ -843,7 +1136,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 61,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Category.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Category.cs",
+              "RelativeToolTip": "BussinessObject\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:18:54.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:04:14.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\CustomerRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:01:51.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ItemContainerGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs",
+              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\57685ba4f7252d83b33666133fd4fde8e220a58fd02555aab6a2fddf1cc7ea9d\\ItemContainerGenerator.cs",
+              "ViewState": "AgIAAHgFAAAAAAAAAAArwIkFAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:12:48.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f5de9bcfa7275e7e930ada29bb344da353f971b5a9bc90dbfe86affd6d9912\\XamlReader.cs",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAMwJ4BAAAkAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:03:23.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\EmployeeRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:10:36.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Test2\\Program.cs",
+              "RelativeDocumentMoniker": "Test2\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Test2\\Program.cs",
+              "RelativeToolTip": "Test2\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:47:11.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Implementation\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementation\\CategoryRepository.cs",
@@ -855,55 +1231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "IOrderDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IOrderDetailRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interface\\IOrderDetailRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IOrderDetailRepository.cs",
-              "RelativeToolTip": "Repositories\\Interface\\IOrderDetailRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:50:13.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interface\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Interface\\IOrderRepository.cs",
-              "RelativeToolTip": "Repositories\\Interface\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:46:11.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Order.cs",
-              "RelativeDocumentMoniker": "BussinessObject\\Order.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\Order.cs",
-              "RelativeToolTip": "BussinessObject\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:16:23.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "BussinessObject\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\OrderDetail.cs",
-              "RelativeToolTip": "BussinessObject\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T12:10:35.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 68,
               "Title": "IDGenerator.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Helper\\IDGenerator.cs",
               "RelativeDocumentMoniker": "Helper\\IDGenerator.cs",

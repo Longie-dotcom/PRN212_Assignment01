@@ -11,9 +11,9 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-using WPF_App.ViewModels;
+using DongXuanBaoLongWPF.ViewModels;
 
-namespace WPF_App.Views
+namespace DongXuanBaoLongWPF.Views
 {
     /// <summary>
     /// Interaction logic for Window1.xaml
@@ -41,7 +41,7 @@ namespace WPF_App.Views
                 if (customer != null)
                 {
                     MessageBox.Show("Login successful!");
-                    var customerWindow = new CustomerDashBoard();
+                    var customerWindow = new CustomerDashBoard(customer.CustomerID);
                     customerWindow.Show();
                     this.Close();
                 }
@@ -56,7 +56,7 @@ namespace WPF_App.Views
                 if (employee != null)
                 {
                     MessageBox.Show("Login successful!");
-                    var employeeWindow = new EmployeeDashBoard();
+                    var employeeWindow = new EmployeeDashBoard(employee.EmployeeID);
                     employeeWindow.Show();
                     this.Close();
                 }

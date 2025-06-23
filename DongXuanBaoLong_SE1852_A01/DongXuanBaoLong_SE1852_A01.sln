@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositorie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{5EC1938C-E37E-4763-A6D1-ED3263F7EB76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF App", "WPF App\WPF App.csproj", "{7CD6FF16-F183-43F6-9D2B-147256B546FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DongXuanBaoLongWPF", "WPF App\DongXuanBaoLongWPF.csproj", "{7CD6FF16-F183-43F6-9D2B-147256B546FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTOs", "DTOs\DTOs.csproj", "{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7CD6FF16-F183-43F6-9D2B-147256B546FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD6FF16-F183-43F6-9D2B-147256B546FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD6FF16-F183-43F6-9D2B-147256B546FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A93392-68AF-48E9-8F3C-2EE6F0137FEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

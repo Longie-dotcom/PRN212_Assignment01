@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BussinessObject\BussinessObject.csproj" />
     <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
+    <ProjectReference Include="..\DTOs\DTOs.csproj" />
     <ProjectReference Include="..\Repositories\Repositories.csproj" />
   </ItemGroup>
 

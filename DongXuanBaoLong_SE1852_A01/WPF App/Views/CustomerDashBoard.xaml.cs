@@ -12,16 +12,35 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace WPF_App.Views
+namespace DongXuanBaoLongWPF.Views
 {
     /// <summary>
     /// Interaction logic for CustomerDashBoard.xaml
     /// </summary>
     public partial class CustomerDashBoard : Window
     {
-        public CustomerDashBoard()
+        private readonly int customerId;
+
+        public CustomerDashBoard(int customerId)
         {
             InitializeComponent();
+            this.customerId = customerId;
+        }
+
+        private void Logout_Click(object sender, RoutedEventArgs e)
+        {
+            new Login().Show();
+            this.Close();
+        }
+
+        private void Profile_Click(object sender, RoutedEventArgs e)
+        {
+            MainContent.Content = new CustomerProfileView(customerId);
+        }
+
+        private void OrderHistory_Click(object sender, RoutedEventArgs e)
+        {
+            MainContent.Content = new OrderCustomerView(customerId);
         }
     }
 }

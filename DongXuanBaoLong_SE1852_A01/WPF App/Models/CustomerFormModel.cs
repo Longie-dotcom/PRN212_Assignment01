@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace WPF_App.Models
+namespace DongXuanBaoLongWPF.Models
 {
     public class CustomerFormModel : INotifyPropertyChanged
     {

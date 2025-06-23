@@ -1,13 +1,16 @@
-﻿using System.Windows;
-using System.Windows.Controls;
+﻿using BussinessObject;
+using System.Windows;
 
-namespace WPF_App.Views
+namespace DongXuanBaoLongWPF.Views
 {
     public partial class EmployeeDashBoard : Window
     {
-        public EmployeeDashBoard()
+        private readonly int employeeId;
+
+        public EmployeeDashBoard(int employeeId)
         {
             InitializeComponent();
+            this.employeeId = employeeId;
         }
 
         private void Customers_Click(object sender, RoutedEventArgs e)
@@ -22,7 +25,7 @@ namespace WPF_App.Views
 
         private void Orders_Click(object sender, RoutedEventArgs e)
         {
-            MainContent.Content = new OrderView(); // Create this UserControl
+            MainContent.Content = new OrderView(employeeId); // Create this UserControl
         }
 
         private void Reports_Click(object sender, RoutedEventArgs e)

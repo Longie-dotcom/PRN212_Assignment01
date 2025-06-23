@@ -1,12 +1,44 @@
-﻿<UserControl x:Class="WPF_App.Views.ReportView"
+﻿<UserControl x:Class="DongXuanBaoLongWPF.Views.ReportView"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
-             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:WPF_App.Views"
-             mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-            
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:DongXuanBaoLongWPF.ViewModels"
+             mc:Ignorable="d"
+             d:DesignHeight="600" d:DesignWidth="900">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Date Filter Inputs -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="From:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <DatePicker SelectedDate="{Binding FromDate}" Margin="0,0,10,0"/>
+            <TextBlock Text="To:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <DatePicker SelectedDate="{Binding ToDate}" Margin="0,0,10,0"/>
+            <Button Content="Load Report" Click="OnLoadReport"/>
+        </StackPanel>
+
+        <!-- Statistics Table -->
+        <DataGrid Grid.Row="1"
+                  ItemsSource="{Binding Statistics}"
+                  AutoGenerateColumns="False"
+                  Margin="0,10,0,10"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Date" Binding="{Binding Period, StringFormat=\{0:yyyy-MM-dd\}}" Width="2*"/>
+                <DataGridTextColumn Header="Total Orders" Binding="{Binding TotalOrders}" Width="*"/>
+                <DataGridTextColumn Header="Total Revenue" Binding="{Binding TotalRevenue, StringFormat=C}" Width="2*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Export or Extra Buttons -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Export to CSV" Margin="5" Click="Export_Click"/>
+            <!-- Add more buttons if needed -->
+        </StackPanel>
     </Grid>
 </UserControl>
