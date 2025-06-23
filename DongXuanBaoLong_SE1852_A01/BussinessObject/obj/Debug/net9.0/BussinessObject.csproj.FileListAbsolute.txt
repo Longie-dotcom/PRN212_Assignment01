@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\bin\Debug\net9.0\BussinessObject.deps.json
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\bin\Debug\net9.0\BussinessObject.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\bin\Debug\net9.0\BussinessObject.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\obj\Debug\net9.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\obj\Debug\net9.0\BussinessObject.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\obj\Debug\net9.0\BussinessObject.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\obj\Debug\net9.0\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\obj\Debug\net9.0\BussinessObject.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\obj\Debug\net9.0\refint\BussinessObject.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\obj\Debug\net9.0\BussinessObject.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\BussinessObject\obj\Debug\net9.0\ref\BussinessObject.dll

@@ -1,0 +1,190 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "BussinessObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BussinessObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BussinessObject.dll": {}
+        }
+      },
+      "DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BussinessObject": "1.0.0",
+          "Helper": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        }
+      },
+      "Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Helper.dll": {}
+        }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BussinessObject": "1.0.0",
+          "DataAccessLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BussinessObject": "1.0.0",
+          "DataAccessLayer": "1.0.0",
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BussinessObject/1.0.0": {
+      "type": "project",
+      "path": "../BussinessObject/BussinessObject.csproj",
+      "msbuildProject": "../BussinessObject/BussinessObject.csproj"
+    },
+    "DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataAccessLayer/DataAccessLayer.csproj",
+      "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
+    },
+    "Helper/1.0.0": {
+      "type": "project",
+      "path": "../Helper/Helper.csproj",
+      "msbuildProject": "../Helper/Helper.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "BussinessObject >= 1.0.0",
+      "DataAccessLayer >= 1.0.0",
+      "Repositories >= 1.0.0",
+      "Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\WPF App.csproj",
+      "projectName": "WPF App",
+      "projectPath": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\WPF App.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\WPF App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "projectReferences": {
+            "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\BussinessObject.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\BussinessObject\\BussinessObject.csproj"
+            },
+            "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\DataAccessLayer\\DataAccessLayer.csproj"
+            },
+            "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Repositories\\Repositories.csproj"
+            },
+            "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\Visual Studio 2022\\DongXuanBaoLong_SE1852_A01\\Services\\Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

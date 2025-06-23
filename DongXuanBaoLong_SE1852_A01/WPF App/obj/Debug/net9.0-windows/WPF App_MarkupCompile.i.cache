@@ -1,0 +1,20 @@
+﻿WPF App
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\
+WPF_App
+none
+false
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\App.xaml
+8788319561
+
+181383808662
+205-1273256092
+MainWindow.xaml;Views\CustomerDashBoard.xaml;Views\CustomerView.xaml;Views\EmployeeDashBoard.xaml;Views\Login.xaml;Views\OrderView.xaml;Views\ProductView.xaml;Views\ReportView.xaml;
+
+False
+

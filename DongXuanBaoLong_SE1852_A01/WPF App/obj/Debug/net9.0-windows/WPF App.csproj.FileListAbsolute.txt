@@ -1,0 +1,46 @@
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\Login.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App_MarkupCompile.cache
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App_MarkupCompile.lref
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\EmployeeDashBoard.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\WPF App.exe
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\WPF App.deps.json
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\WPF App.runtimeconfig.json
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\WPF App.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\WPF App.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\BussinessObject.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\DataAccessLayer.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\Helper.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\Repositories.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\Services.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\BussinessObject.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\Repositories.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\Services.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\bin\Debug\net9.0-windows\Helper.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\CustomerDashBoard.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\CustomerDashBoard.baml
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\EmployeeDashBoard.baml
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\Login.baml
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.g.resources
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.csproj.Up2Date
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\refint\WPF App.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\WPF App.genruntimeconfig.cache
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\ref\WPF App.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\CustomerView.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\OrderView.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\ProductView.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\ReportView.g.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\CustomerView.baml
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\OrderView.baml
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\ProductView.baml
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\WPF App\obj\Debug\net9.0-windows\Views\ReportView.baml

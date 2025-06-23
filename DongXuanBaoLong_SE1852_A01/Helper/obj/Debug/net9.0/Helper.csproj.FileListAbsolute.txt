@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\bin\Debug\net9.0\Helper.deps.json
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\bin\Debug\net9.0\Helper.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\bin\Debug\net9.0\Helper.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\obj\Debug\net9.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\obj\Debug\net9.0\Helper.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\obj\Debug\net9.0\Helper.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\obj\Debug\net9.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\obj\Debug\net9.0\Helper.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\obj\Debug\net9.0\refint\Helper.dll
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\obj\Debug\net9.0\Helper.pdb
+C:\Users\PC\Documents\Visual Studio 2022\DongXuanBaoLong_SE1852_A01\Helper\obj\Debug\net9.0\ref\Helper.dll
