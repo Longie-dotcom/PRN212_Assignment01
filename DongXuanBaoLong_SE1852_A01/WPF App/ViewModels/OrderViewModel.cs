@@ -7,6 +7,7 @@ using DTOs;
 using BussinessObject;
 using System;
 using System.Linq;
+using System.Windows;
 
 namespace DongXuanBaoLongWPF.ViewModels
 {
@@ -25,6 +26,7 @@ namespace DongXuanBaoLongWPF.ViewModels
             new(SelectedOrder?.Items ?? new List<OrderDetailItemDTO>());
         private Customer? selectedCustomer;
         private OrderDetailDTO selectedOrder;
+
         public OrderDetailDTO SelectedOrder
         {
             get => selectedOrder;
@@ -47,15 +49,34 @@ namespace DongXuanBaoLongWPF.ViewModels
                 if (value != null)
                 {
                     SelectedCustomerID = value.CustomerID;
+                    CustomerName = value.ContactName;
                 }
                 OnPropertyChanged(nameof(SelectedCustomer));
+                OnPropertyChanged(nameof(CustomerName));
             }
+        }
+
+        public Product? SelectedProduct
+        { get => selectedProduct;
+          set
+            {
+                selectedProduct = value;
+                ProductName = value.ProductName;
+                OnPropertyChanged(nameof(SelectedProduct));
+                OnPropertyChanged(nameof(ProductName));
+            }
+        }
+
+        public string ProductName
+        {
+            get; set;
         }
 
         // --- New Order Inputs ---
         public int SelectedCustomerID { get; set; }
-        public Product? SelectedProduct { get; set; }
+        public string CustomerName { get; set; }
         public int Quantity { get; set; } = 1;
+        public Product selectedProduct;
         public float Discount { get; set; } = 0;
         public string ProductSearchText { get; set; }
 
@@ -127,7 +148,7 @@ namespace DongXuanBaoLongWPF.ViewModels
         // --- ADD ORDER FUNCTION ---
         public void AddOrder()
         {
-            if (SelectedProduct == null || SelectedCustomerID <= 0 || Quantity <= 0)
+            if (selectedProduct == null || SelectedCustomerID <= 0 || Quantity <= 0)
                 return;
 
             var order = new Order
@@ -139,15 +160,17 @@ namespace DongXuanBaoLongWPF.ViewModels
 
             var orderDetail = new OrderDetail
             {
-                ProductID = SelectedProduct.ProductID,
+                ProductID = selectedProduct.ProductID,
                 Quantity = Quantity,
-                UnitPrice = SelectedProduct?.UnitPrice ?? -1,
+                UnitPrice = selectedProduct?.UnitPrice ?? -1,
                 Discount = Discount
             };
 
             orderCreateService.CreateOrder(order, orderDetail);
 
             LoadOrders(); // Refresh view
+
+            MessageBox.Show("Added successfully!");
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;

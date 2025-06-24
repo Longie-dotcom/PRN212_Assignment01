@@ -5,6 +5,7 @@ using Repositories.Implementation;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using DongXuanBaoLongWPF.Models;
+using System.Windows;
 
 namespace DongXuanBaoLongWPF.ViewModels
 {
@@ -78,6 +79,8 @@ namespace DongXuanBaoLongWPF.ViewModels
                 Products.Add(newProduct);
                 ClearForm();
             }
+
+            MessageBox.Show("Added product successfully!");
         }
 
         public void UpdateProduct()
@@ -101,6 +104,8 @@ namespace DongXuanBaoLongWPF.ViewModels
                 Products = new ObservableCollection<Product>(productService.GetAllProducts());
                 ClearForm();
             }
+
+            MessageBox.Show("Updated product successfully!");
         }
 
         public void DeleteProduct()
@@ -113,6 +118,8 @@ namespace DongXuanBaoLongWPF.ViewModels
                 Products.Remove(SelectedProduct);
                 ClearForm();
             }
+
+            MessageBox.Show("Deleted product successfully!");
         }
 
         private void ClearForm()
@@ -134,6 +141,7 @@ namespace DongXuanBaoLongWPF.ViewModels
             if (string.IsNullOrEmpty(name))
             {
                 Products = new ObservableCollection<Product>(productService.GetAllProducts());
+                MessageBox.Show("Product not found!");
             } else
             {
                 Products = new ObservableCollection<Product>(productService.SearchProductsByName(name));
